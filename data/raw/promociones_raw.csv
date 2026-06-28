@@ -1,0 +1,42 @@
+id_promocion;nombre;tipo;descuento_pct;fecha_inicio;fecha_fin
+PROMO_NONE;Sin Promocion;Ninguno;0.0;2024-01-01;2025-12-31
+PRM001;Campana Descuento Especial 1;Descuento Directo;0.1;2025-08-17;2025-09-05
+PRM002;Campana Descuento Especial 2;Volumen;0.07;2025-10-02;2025-10-17
+PRM003;Campana Descuento Especial 3;Descuento Directo;0.1;2025-06-14;2025-07-04
+PRM004;Campana Cyber FISI 4;Descuento Directo;0.07;2024-09-05;2024-09-11
+PRM005;Campana Descuento Especial 5;Estacional;0.11;2024-09-16;2024-09-30
+PRM006;Campana Cyber FISI 6;Volumen;0.23;2025-09-30;2025-10-08
+PRM007;Campana Cyber FISI 7;Descuento Directo;0.25;2024-08-12;2024-08-24
+PRM008;Campana Descuento Especial 8;Descuento Directo;0.22;2025-09-24;2025-10-08
+PRM009;Campana Cyber FISI 9;Estacional;0.12;2024-12-09;2024-12-28
+PRM010;Campana Cyber FISI 10;Volumen;0.28;2025-03-19;2025-03-29
+PRM011;Campana Aniversario 11;Volumen;0.14;2024-05-03;2024-05-12
+PRM012;Campana Aniversario 12;Descuento Directo;0.16;2024-04-29;2024-05-05
+PRM013;Campana Cyber FISI 13;Volumen;0.05;2024-06-25;2024-07-02
+PRM014;Campana Descuento Especial 14;Estacional;0.24;2024-11-18;2024-12-05
+PRM015;Campana Cyber FISI 15;Volumen;0.19;2024-02-25;2024-03-06
+PRM016;Campana Aniversario 16;Estacional;0.08;2024-01-13;2024-01-20
+PRM017;Campana Aniversario 17;Descuento Directo;0.29;2024-12-06;2024-12-19
+PRM018;Campana Cyber FISI 18;Descuento Directo;0.1;2024-11-04;2024-11-10
+PRM019;Campana Cyber FISI 19;Descuento Directo;0.28;2025-06-02;2025-06-07
+PRM020;Campana Descuento Especial 20;Descuento Directo;0.15;2025-06-23;2025-07-02
+PRM021;Campana Cyber FISI 21;Descuento Directo;0.11;2024-04-21;2024-05-08
+PRM022;Campana Descuento Especial 22;Descuento Directo;0.19;2024-08-19;2024-08-27
+PRM023;Campana Descuento Especial 23;Volumen;0.05;2024-05-22;2024-05-29
+PRM024;Campana Descuento Especial 24;Descuento Directo;0.28;2024-07-12;2024-07-26
+PRM025;Campana Descuento Especial 25;Estacional;0.12;2024-10-30;2024-11-10
+PRM026;Campana Descuento Especial 26;Descuento Directo;0.27;2024-04-11;2024-04-16
+PRM027;Campana Descuento Especial 27;Volumen;0.25;2025-01-17;2025-01-31
+PRM028;Campana Cyber FISI 28;Descuento Directo;0.23;2024-03-09;2024-03-29
+PRM029;Campana Aniversario 29;Estacional;0.29;2025-06-25;2025-07-02
+PRM030;Campana Descuento Especial 30;Volumen;0.2;2024-01-16;2024-01-26
+PRM031;Campana Cyber FISI 31;Descuento Directo;0.24;2024-04-12;2024-04-17
+PRM032;Campana Aniversario 32;Estacional;0.07;2025-09-25;2025-10-12
+PRM033;Campana Descuento Especial 33;Descuento Directo;0.25;2025-01-03;2025-01-17
+PRM034;Campana Aniversario 34;Volumen;0.15;2024-05-21;2024-06-07
+PRM035;Campana Cyber FISI 35;Estacional;0.27;2024-01-04;2024-01-23
+PRM036;Campana Cyber FISI 36;Volumen;0.16;2024-11-22;2024-12-04
+PRM037;Campana Cyber FISI 37;Estacional;0.06;2024-12-10;2024-12-27
+PRM038;Campana Aniversario 38;Volumen;0.06;2024-05-18;2024-05-25
+PRM039;Campana Cyber FISI 39;Estacional;0.09;2024-04-30;2024-05-20
+PRM040;Campana Aniversario 40;Volumen;0.14;2024-01-07;2024-01-16
