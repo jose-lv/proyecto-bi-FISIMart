@@ -1,0 +1,2 @@
+# proyecto-bi-FISIMart
+PROYECTO GRUPAL 2026 - Asignatura: INTELIGENCIA DE NEGOCIOS
