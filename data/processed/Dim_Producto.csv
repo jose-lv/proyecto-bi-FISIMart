@@ -1,8 +1,8 @@
 id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
 PROD0001;Producto Arroz y Menestras 1;Abarrotes;Arroz y Menestras;Gloria;120.53;82.56
 PROD0002;Producto Arroz y Menestras 2;Abarrotes;Arroz y Menestras;Arroz Superior;81.03;53.33
-PROD0003;Producto Jugos 3;No Especificado;Jugos;InkaCola;101.54;61.94
-PROD0004;Producto Jabones 4;No Especificado;Jabones;Samsung Acc;112.01;79.37
+PROD0003;Producto Jugos 3;Bebidas;Jugos;InkaCola;101.54;61.94
+PROD0004;Producto Jabones 4;Cuidado Personal;Jabones;Samsung Acc;112.01;79.37
 PROD0005;Producto Gadgets 5;Tecnologia;Gadgets;Arroz Superior;140.82;79.96
 PROD0006;Producto Gadgets 6;Tecnologia;Gadgets;Samsung Acc;148.57;102.7
 PROD0007;Producto Jabones 7;Cuidado Personal;Jabones;Samsung Acc;129.72;77.59
@@ -13,17 +13,17 @@ PROD0011;Producto Gadgets 11;Tecnologia;Gadgets;FISIBrand;168.28;105.83
 PROD0012;Producto Gadgets 12;Tecnologia;Gadgets;Samsung Acc;64.25;34.77
 PROD0013;Producto Utensilios 13;Hogar;Utensilios;Gloria;27.62;19.65
 PROD0014;Producto Utensilios 14;Hogar;Utensilios;Arroz Superior;94.23;60.7
-PROD0015;Producto Cervezas 15;No Especificado;Cervezas;Samsung Acc;134.12;86.25
+PROD0015;Producto Cervezas 15;Bebidas;Cervezas;Samsung Acc;134.12;86.25
 PROD0016;Producto Arroz y Menestras 16;Abarrotes;Arroz y Menestras;Primor;142.17;98.98
 PROD0017;Producto Aguas 17;Bebidas;Aguas;Facusa;93.08;56.03
 PROD0018;Producto Shampoo 18;Cuidado Personal;Shampoo;Gloria;136.31;100.45
 PROD0019;Producto Utensilios 19;Hogar;Utensilios;FISIBrand;37.06;24.86
 PROD0020;Producto Decoracion 20;Hogar;Decoracion;Samsung Acc;112.96;65.33
 PROD0021;Producto Cargadores 21;Tecnologia;Cargadores;Primor;70.74;38.39
-PROD0022;Producto Organizadores 22;No Especificado;Organizadores;Primor;134.39;102.83
+PROD0022;Producto Organizadores 22;Hogar;Organizadores;Primor;134.39;102.83
 PROD0023;Producto Cargadores 23;Tecnologia;Cargadores;Primor;133.26;97.97
 PROD0024;Producto Organizadores 24;Hogar;Organizadores;Arroz Superior;29.34;20.22
-PROD0025;Producto Gadgets 25;No Especificado;Gadgets;Samsung Acc;111.06;62.64
+PROD0025;Producto Gadgets 25;Tecnologia;Gadgets;Samsung Acc;111.06;62.64
 PROD0026;Producto Cargadores 26;Tecnologia;Cargadores;Primor;16.55;10.3
 PROD0027;Producto Jabones 27;Cuidado Personal;Jabones;Arroz Superior;22.94;16.18
 PROD0028;Producto Jabones 28;Cuidado Personal;Jabones;Samsung Acc;105.01;65.15
@@ -59,10 +59,10 @@ PROD0057;Producto Conservas 57;Abarrotes;Conservas;Arroz Superior;134.65;104.18
 PROD0058;Producto Aceites 58;Abarrotes;Aceites;Samsung Acc;163.11;89.03
 PROD0059;Producto Dental 59;Cuidado Personal;Dental;FISIBrand;162.96;98.42
 PROD0060;Producto Decoracion 60;Hogar;Decoracion;InkaCola;21.82;14.47
-PROD0061;Producto Jabones 61;No Especificado;Jabones;Primor;147.32;88.67
+PROD0061;Producto Jabones 61;Cuidado Personal;Jabones;Primor;147.32;88.67
 PROD0062;Producto Arroz y Menestras 62;Abarrotes;Arroz y Menestras;Primor;81.1;55.59
 PROD0063;Producto Snacks 63;Abarrotes;Snacks;Facusa;120.97;86.59
-PROD0064;Producto Decoracion 64;No Especificado;Decoracion;FISIBrand;84.56;55.36
+PROD0064;Producto Decoracion 64;Hogar;Decoracion;FISIBrand;84.56;55.36
 PROD0065;Producto Conservas 65;Abarrotes;Conservas;Primor;21.86;12.21
 PROD0066;Producto Dental 66;Cuidado Personal;Dental;Primor;45.34;27.94
 PROD0067;Producto Jabones 67;Cuidado Personal;Jabones;Gloria;37.14;26.12
@@ -150,12 +150,12 @@ PROD0148;Producto Jabones 148;Cuidado Personal;Jabones;Facusa;116.97;92.2
 PROD0149;Producto Organizadores 149;Hogar;Organizadores;Arroz Superior;4.96;3.22
 PROD0150;Producto Decoracion 150;Hogar;Decoracion;Gloria;108.46;75.45
 PROD0151;Producto Snacks 151;Abarrotes;Snacks;Gloria;27.83;21.32
-PROD0152;Producto Decoracion 152;No Especificado;Decoracion;Samsung Acc;183.55;111.67
+PROD0152;Producto Decoracion 152;Hogar;Decoracion;Samsung Acc;183.55;111.67
 PROD0153;Producto Utensilios 153;Hogar;Utensilios;FISIBrand;15.04;11.82
 PROD0154;Producto Decoracion 154;Hogar;Decoracion;InkaCola;32.13;20.98
 PROD0155;Producto Gaseosas 155;Bebidas;Gaseosas;Facusa;19.63;11.93
 PROD0156;Producto Aguas 156;Bebidas;Aguas;Arroz Superior;20.44;11.24
-PROD0157;Producto Organizadores 157;No Especificado;Organizadores;Samsung Acc;198.12;116.92
+PROD0157;Producto Organizadores 157;Hogar;Organizadores;Samsung Acc;198.12;116.92
 PROD0158;Producto Organizadores 158;Hogar;Organizadores;Samsung Acc;166.14;109.28
 PROD0159;Producto Decoracion 159;Hogar;Decoracion;Primor;47.04;37.49
 PROD0160;Producto Aguas 160;Bebidas;Aguas;FISIBrand;137.89;88.85
@@ -230,7 +230,7 @@ PROD0228;Producto Utensilios 228;Hogar;Utensilios;Samsung Acc;186.15;105.56
 PROD0229;Producto Aceites 229;Abarrotes;Aceites;Gloria;58.33;31.57
 PROD0230;Producto Conservas 230;Abarrotes;Conservas;Arroz Superior;66.21;42.93
 PROD0231;Producto Shampoo 231;Cuidado Personal;Shampoo;InkaCola;40.03;25.13
-PROD0232;Producto Shampoo 232;No Especificado;Shampoo;Facusa;79.27;45.94
+PROD0232;Producto Shampoo 232;Cuidado Personal;Shampoo;Facusa;79.27;45.94
 PROD0233;Producto Jabones 233;Cuidado Personal;Jabones;Gloria;114.03;83.77
 PROD0234;Producto Arroz y Menestras 234;Abarrotes;Arroz y Menestras;Primor;143.26;83.76
 PROD0235;Producto Organizadores 235;Hogar;Organizadores;InkaCola;204.45;116.12
@@ -240,7 +240,7 @@ PROD0238;Producto Cargadores 238;Tecnologia;Cargadores;Facusa;163.84;115.04
 PROD0239;Producto Shampoo 239;Cuidado Personal;Shampoo;Samsung Acc;64.03;40.99
 PROD0240;Producto Snacks 240;Abarrotes;Snacks;Primor;37.88;21.02
 PROD0241;Producto Utensilios 241;Hogar;Utensilios;Arroz Superior;49.14;27.94
-PROD0242;Producto Cargadores 242;No Especificado;Cargadores;Primor;96.11;67.16
+PROD0242;Producto Cargadores 242;Tecnologia;Cargadores;Primor;96.11;67.16
 PROD0243;Producto Gadgets 243;Tecnologia;Gadgets;Arroz Superior;18.06;14.15
 PROD0244;Producto Decoracion 244;Hogar;Decoracion;Facusa;26.38;17.5
 PROD0245;Producto Conservas 245;Abarrotes;Conservas;Gloria;173.11;102.66
@@ -269,7 +269,7 @@ PROD0267;Producto Organizadores 267;Hogar;Organizadores;Primor;159.11;104.34
 PROD0268;Producto Dental 268;Cuidado Personal;Dental;Primor;149.6;99.12
 PROD0269;Producto Organizadores 269;Hogar;Organizadores;Samsung Acc;117.06;72.37
 PROD0270;Producto Utensilios 270;Hogar;Utensilios;Gloria;28.08;16.06
-PROD0271;Producto Cervezas 271;No Especificado;Cervezas;Gloria;94.75;61.91
+PROD0271;Producto Cervezas 271;Bebidas;Cervezas;Gloria;94.75;61.91
 PROD0272;Producto Jabones 272;Cuidado Personal;Jabones;Samsung Acc;104.96;64.02
 PROD0273;Producto Snacks 273;Abarrotes;Snacks;InkaCola;111.57;75.66
 PROD0274;Producto Utensilios 274;Hogar;Utensilios;Gloria;23.95;15.54
@@ -279,7 +279,7 @@ PROD0277;Producto Cargadores 277;Tecnologia;Cargadores;Facusa;125.7;99.6
 PROD0278;Producto Accesorios 278;Tecnologia;Accesorios;Arroz Superior;94.47;60.36
 PROD0279;Producto Snacks 279;Abarrotes;Snacks;Primor;49.34;39.47
 PROD0280;Producto Arroz y Menestras 280;Abarrotes;Arroz y Menestras;Arroz Superior;26.38;19.14
-PROD0281;Producto Cervezas 281;No Especificado;Cervezas;Samsung Acc;47.66;30.87
+PROD0281;Producto Cervezas 281;Bebidas;Cervezas;Samsung Acc;47.66;30.87
 PROD0282;Producto Accesorios 282;Tecnologia;Accesorios;Arroz Superior;137.8;81.42
 PROD0283;Producto Aguas 283;Bebidas;Aguas;FISIBrand;88.46;57.4
 PROD0284;Producto Jabones 284;Cuidado Personal;Jabones;Arroz Superior;140.41;104.66
@@ -317,7 +317,7 @@ PROD0315;Producto Shampoo 315;Cuidado Personal;Shampoo;Facusa;19.36;13.46
 PROD0316;Producto Accesorios 316;Tecnologia;Accesorios;FISIBrand;84.66;47.99
 PROD0317;Producto Dental 317;Cuidado Personal;Dental;InkaCola;86.51;57.39
 PROD0318;Producto Cargadores 318;Tecnologia;Cargadores;FISIBrand;50.59;36.18
-PROD0319;Producto Shampoo 319;No Especificado;Shampoo;Samsung Acc;137.09;91.01
+PROD0319;Producto Shampoo 319;Cuidado Personal;Shampoo;Samsung Acc;137.09;91.01
 PROD0320;Producto Jabones 320;Cuidado Personal;Jabones;Arroz Superior;140.13;86.44
 PROD0321;Producto Conservas 321;Abarrotes;Conservas;InkaCola;5.88;4.22
 PROD0322;Producto Aceites 322;Abarrotes;Aceites;FISIBrand;94.86;75.72
@@ -342,13 +342,13 @@ PROD0340;Producto Snacks 340;Abarrotes;Snacks;FISIBrand;98.9;61.25
 PROD0341;Producto Aguas 341;Bebidas;Aguas;Gloria;73.62;53.46
 PROD0342;Producto Cargadores 342;Tecnologia;Cargadores;FISIBrand;122.24;80.49
 PROD0343;Producto Dental 343;Cuidado Personal;Dental;Facusa;99.94;68.55
-PROD0344;Producto Shampoo 344;No Especificado;Shampoo;Gloria;128.25;89.19
+PROD0344;Producto Shampoo 344;Cuidado Personal;Shampoo;Gloria;128.25;89.19
 PROD0345;Producto Utensilios 345;Hogar;Utensilios;FISIBrand;19.14;15.14
 PROD0346;Producto Snacks 346;Abarrotes;Snacks;Arroz Superior;142.04;99.28
 PROD0347;Producto Cervezas 347;Bebidas;Cervezas;Samsung Acc;36.49;28.52
 PROD0348;Producto Gadgets 348;Tecnologia;Gadgets;Gloria;12.63;8.94
 PROD0349;Producto Decoracion 349;Hogar;Decoracion;Gloria;13.52;8.24
-PROD0350;Producto Cargadores 350;No Especificado;Cargadores;Primor;43.42;33.6
+PROD0350;Producto Cargadores 350;Tecnologia;Cargadores;Primor;43.42;33.6
 PROD0351;Producto Aguas 351;Bebidas;Aguas;Samsung Acc;138.65;99.76
 PROD0352;Producto Organizadores 352;Hogar;Organizadores;InkaCola;64.35;40.4
 PROD0353;Producto Jugos 353;Bebidas;Jugos;Samsung Acc;63.91;38.08
@@ -371,7 +371,7 @@ PROD0369;Producto Jugos 369;Bebidas;Jugos;Gloria;181.87;103.44
 PROD0370;Producto Dental 370;Cuidado Personal;Dental;InkaCola;8.66;5.14
 PROD0371;Producto Gadgets 371;Tecnologia;Gadgets;FISIBrand;105.33;81.67
 PROD0372;Producto Dental 372;Cuidado Personal;Dental;Arroz Superior;14.42;8.44
-PROD0373;Producto Decoracion 373;No Especificado;Decoracion;InkaCola;56.17;33.18
+PROD0373;Producto Decoracion 373;Hogar;Decoracion;InkaCola;56.17;33.18
 PROD0374;Producto Shampoo 374;Cuidado Personal;Shampoo;Facusa;153.78;97.31
 PROD0375;Producto Jugos 375;Bebidas;Jugos;Samsung Acc;87.02;61.91
 PROD0376;Producto Shampoo 376;Cuidado Personal;Shampoo;FISIBrand;51.4;38.4
@@ -386,7 +386,7 @@ PROD0384;Producto Jugos 384;Bebidas;Jugos;Gloria;192.7;108.96
 PROD0385;Producto Utensilios 385;Hogar;Utensilios;Gloria;70.96;56.31
 PROD0386;Producto Accesorios 386;Tecnologia;Accesorios;Gloria;110.38;78.52
 PROD0387;Producto Conservas 387;Abarrotes;Conservas;Primor;115.93;79.5
-PROD0388;Producto Aceites 388;No Especificado;Aceites;Gloria;54.91;35.22
+PROD0388;Producto Aceites 388;Abarrotes;Aceites;Gloria;54.91;35.22
 PROD0389;Producto Dental 389;Cuidado Personal;Dental;Arroz Superior;15.4;11.15
 PROD0390;Producto Gaseosas 390;Bebidas;Gaseosas;Gloria;168.28;100.25
 PROD0391;Producto Shampoo 391;Cuidado Personal;Shampoo;FISIBrand;44.21;25.82
@@ -419,7 +419,7 @@ PROD0417;Producto Jugos 417;Bebidas;Jugos;Facusa;125.39;88.9
 PROD0418;Producto Utensilios 418;Hogar;Utensilios;InkaCola;23.49;13.78
 PROD0419;Producto Snacks 419;Abarrotes;Snacks;InkaCola;95.37;58.6
 PROD0420;Producto Aceites 420;Abarrotes;Aceites;Samsung Acc;9.76;7.7
-PROD0421;Producto Cervezas 421;No Especificado;Cervezas;FISIBrand;123.38;76.37
+PROD0421;Producto Cervezas 421;Bebidas;Cervezas;FISIBrand;123.38;76.37
 PROD0422;Producto Aceites 422;Abarrotes;Aceites;Gloria;36.58;25.73
 PROD0423;Producto Jugos 423;Bebidas;Jugos;Samsung Acc;154.13;87.21
 PROD0424;Producto Aceites 424;Abarrotes;Aceites;FISIBrand;175.36;118.06
@@ -462,8 +462,8 @@ PROD0460;Producto Shampoo 460;Cuidado Personal;Shampoo;Samsung Acc;112.44;76.47
 PROD0461;Producto Snacks 461;Abarrotes;Snacks;Samsung Acc;97.17;71.13
 PROD0462;Producto Cervezas 462;Bebidas;Cervezas;Gloria;125.38;95.98
 PROD0463;Producto Cervezas 463;Bebidas;Cervezas;Arroz Superior;5.27;4.16
-PROD0464;Producto Gadgets 464;No Especificado;Gadgets;Gloria;197.49;119.69
-PROD0465;Producto Aguas 465;No Especificado;Aguas;Samsung Acc;178.94;99.97
+PROD0464;Producto Gadgets 464;Tecnologia;Gadgets;Gloria;197.49;119.69
+PROD0465;Producto Aguas 465;Bebidas;Aguas;Samsung Acc;178.94;99.97
 PROD0466;Producto Dental 466;Cuidado Personal;Dental;Primor;14.13;8.4
 PROD0467;Producto Organizadores 467;Hogar;Organizadores;Primor;121.83;90.35
 PROD0468;Producto Cervezas 468;Bebidas;Cervezas;Arroz Superior;5.06;3.29
@@ -480,14 +480,14 @@ PROD0478;Producto Aceites 478;Abarrotes;Aceites;Samsung Acc;50.46;36.62
 PROD0479;Producto Jabones 479;Cuidado Personal;Jabones;Facusa;13.28;10.09
 PROD0480;Producto Organizadores 480;Hogar;Organizadores;Arroz Superior;44.99;30.44
 PROD0481;Producto Shampoo 481;Cuidado Personal;Shampoo;Facusa;86.91;48.11
-PROD0482;Producto Utensilios 482;No Especificado;Utensilios;Gloria;23.09;15.59
+PROD0482;Producto Utensilios 482;Hogar;Utensilios;Gloria;23.09;15.59
 PROD0483;Producto Cervezas 483;Bebidas;Cervezas;Arroz Superior;89.53;55.56
-PROD0484;Producto Shampoo 484;No Especificado;Shampoo;Primor;44.62;33.68
+PROD0484;Producto Shampoo 484;Cuidado Personal;Shampoo;Primor;44.62;33.68
 PROD0485;Producto Gaseosas 485;Bebidas;Gaseosas;Gloria;107.68;75.13
 PROD0486;Producto Accesorios 486;Tecnologia;Accesorios;InkaCola;140.16;99.78
 PROD0487;Producto Gadgets 487;Tecnologia;Gadgets;Samsung Acc;36.56;26.82
 PROD0488;Producto Conservas 488;Abarrotes;Conservas;InkaCola;60.34;36.25
-PROD0489;Producto Aceites 489;No Especificado;Aceites;Gloria;47.42;30.63
+PROD0489;Producto Aceites 489;Abarrotes;Aceites;Gloria;47.42;30.63
 PROD0490;Producto Snacks 490;Abarrotes;Snacks;FISIBrand;11.52;7.02
 PROD0491;Producto Jugos 491;Bebidas;Jugos;InkaCola;145.72;81.53
 PROD0492;Producto Cervezas 492;Bebidas;Cervezas;Gloria;27.36;15.34
@@ -550,7 +550,7 @@ PROD0548;Producto Accesorios 548;Tecnologia;Accesorios;Primor;143.62;109.09
 PROD0549;Producto Snacks 549;Abarrotes;Snacks;Samsung Acc;23.22;15.45
 PROD0550;Producto Cargadores 550;Tecnologia;Cargadores;Gloria;23.46;14.35
 PROD0551;Producto Utensilios 551;Hogar;Utensilios;Gloria;150.0;103.66
-PROD0552;Producto Cervezas 552;No Especificado;Cervezas;Gloria;100.55;72.48
+PROD0552;Producto Cervezas 552;Bebidas;Cervezas;Gloria;100.55;72.48
 PROD0553;Producto Gadgets 553;Tecnologia;Gadgets;FISIBrand;137.5;77.69
 PROD0554;Producto Organizadores 554;Hogar;Organizadores;Facusa;18.19;10.06
 PROD0555;Producto Cervezas 555;Bebidas;Cervezas;Primor;126.26;92.6
@@ -572,7 +572,7 @@ PROD0570;Producto Organizadores 570;Hogar;Organizadores;InkaCola;63.07;48.56
 PROD0571;Producto Jabones 571;Cuidado Personal;Jabones;Primor;158.8;119.68
 PROD0572;Producto Arroz y Menestras 572;Abarrotes;Arroz y Menestras;Primor;29.28;20.23
 PROD0573;Producto Gaseosas 573;Bebidas;Gaseosas;Arroz Superior;90.13;60.53
-PROD0574;Producto Decoracion 574;No Especificado;Decoracion;Samsung Acc;67.48;39.61
+PROD0574;Producto Decoracion 574;Hogar;Decoracion;Samsung Acc;67.48;39.61
 PROD0575;Producto Cargadores 575;Tecnologia;Cargadores;Arroz Superior;179.56;112.39
 PROD0576;Producto Decoracion 576;Hogar;Decoracion;Arroz Superior;111.44;82.68
 PROD0577;Producto Decoracion 577;Hogar;Decoracion;Gloria;36.57;21.03
@@ -581,7 +581,7 @@ PROD0579;Producto Gaseosas 579;Bebidas;Gaseosas;Primor;107.66;83.33
 PROD0580;Producto Gaseosas 580;Bebidas;Gaseosas;Primor;88.67;62.91
 PROD0581;Producto Jugos 581;Bebidas;Jugos;FISIBrand;44.04;34.79
 PROD0582;Producto Arroz y Menestras 582;Abarrotes;Arroz y Menestras;InkaCola;82.98;65.52
-PROD0583;Producto Jabones 583;No Especificado;Jabones;Gloria;98.04;53.92
+PROD0583;Producto Jabones 583;Cuidado Personal;Jabones;Gloria;98.04;53.92
 PROD0584;Producto Cervezas 584;Bebidas;Cervezas;FISIBrand;123.1;67.69
 PROD0585;Producto Organizadores 585;Hogar;Organizadores;Samsung Acc;27.41;19.31
 PROD0586;Producto Gaseosas 586;Bebidas;Gaseosas;Gloria;171.08;96.45
