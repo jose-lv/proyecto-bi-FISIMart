@@ -1,0 +1,39 @@
+antecedents;consequents;categoria_antecedente;categoria_consecuente;support;confidence;lift
+Producto Cervezas 29;Producto Dental 97;Bebidas;Cuidado Personal;0.001053;0.08547;1.923685
+Producto Accesorios 92;Producto Accesorios 82;Tecnologia;Tecnologia;0.001053;0.033113;1.776855
+Producto Accesorios 82;Producto Accesorios 92;Tecnologia;Tecnologia;0.001053;0.056497;1.776855
+Producto Utensilios 49;Producto Aguas 117;Hogar;Bebidas;0.001158;0.041667;1.576693
+Producto Aguas 117;Producto Utensilios 49;Bebidas;Hogar;0.001158;0.043825;1.576693
+Producto Jabones 4;Producto Jugos 101;Cuidado Personal;Bebidas;0.001158;0.042146;1.343285
+Producto Jugos 101;Producto Jabones 4;Bebidas;Cuidado Personal;0.001158;0.036913;1.343285
+Producto Gaseosas 54;Producto Aguas 117;Bebidas;Bebidas;0.001053;0.035211;1.332417
+Producto Aguas 117;Producto Gaseosas 54;Bebidas;Bebidas;0.001053;0.039841;1.332417
+Producto Dental 97;Producto Cervezas 95;Cuidado Personal;Bebidas;0.002316;0.052133;1.327497
+Producto Cervezas 95;Producto Dental 97;Bebidas;Cuidado Personal;0.002316;0.058981;1.327497
+Producto Organizadores 22;Producto Utensilios 49;Hogar;Hogar;0.001685;0.035955;1.293565
+Producto Utensilios 49;Producto Organizadores 22;Hogar;Hogar;0.001685;0.060606;1.293565
+Producto Aguas 51;Producto Utensilios 73;Bebidas;Hogar;0.001053;0.046083;1.291138
+Producto Utensilios 49;Producto Gaseosas 54;Hogar;Bebidas;0.001053;0.037879;1.266805
+Producto Gaseosas 54;Producto Utensilios 49;Bebidas;Hogar;0.001053;0.035211;1.266805
+Producto Accesorios 92;Producto Jabones 28;Tecnologia;Cuidado Personal;0.001053;0.033113;1.214298
+Producto Jabones 28;Producto Accesorios 92;Cuidado Personal;Tecnologia;0.001053;0.03861;1.214298
+Producto Gadgets 25;Producto Cervezas 95;Tecnologia;Bebidas;0.001158;0.045643;1.162248
+Producto Jabones 72;Producto Utensilios 14;Cuidado Personal;Hogar;0.001895;0.038877;1.157532
+Producto Utensilios 14;Producto Jabones 72;Hogar;Cuidado Personal;0.001895;0.056426;1.157532
+Producto Jugos 55;Producto Dental 97;Bebidas;Cuidado Personal;0.001474;0.05036;1.133452
+Producto Dental 97;Producto Jugos 55;Cuidado Personal;Bebidas;0.001474;0.033175;1.133452
+Producto Jugos 101;Producto Cargadores 21;Bebidas;Tecnologia;0.001053;0.033557;1.110539
+Producto Cargadores 21;Producto Jugos 101;Tecnologia;Bebidas;0.001053;0.034843;1.110539
+Producto Jabones 72;Producto Utensilios 73;Cuidado Personal;Hogar;0.001895;0.038877;1.089241
+Producto Utensilios 73;Producto Jabones 72;Hogar;Cuidado Personal;0.001895;0.053097;1.089241
+Producto Utensilios 13;Producto Organizadores 22;Hogar;Hogar;0.001369;0.050193;1.071311
+Producto Accesorios 92;Producto Arroz y Menestras 2;Tecnologia;Abarrotes;0.001263;0.039735;1.069133
+Producto Arroz y Menestras 2;Producto Accesorios 92;Abarrotes;Tecnologia;0.001263;0.033994;1.069133
+Producto Organizadores 76;Producto Jabones 72;Hogar;Cuidado Personal;0.001053;0.050251;1.030856
+Producto Organizadores 22;Producto Cervezas 95;Hogar;Bebidas;0.001895;0.040449;1.029997
+Producto Cervezas 95;Producto Organizadores 22;Bebidas;Hogar;0.001895;0.048257;1.029997
+Producto Utensilios 49;Producto Dental 97;Hogar;Cuidado Personal;0.001263;0.045455;1.02305
+Producto Aguas 117;Producto Organizadores 22;Bebidas;Hogar;0.001263;0.047809;1.020422
+Producto Jugos 55;Producto Conservas 115;Bebidas;Abarrotes;0.001579;0.053957;1.016829
+Producto Gadgets 6;Producto Jabones 72;Tecnologia;Cuidado Personal;0.001053;0.049505;1.015546
+Producto Jabones 4;Producto Jugos 3;Cuidado Personal;Bebidas;0.001053;0.038314;1.013671
