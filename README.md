@@ -13,34 +13,6 @@ Docente: Mg. Juan Gamarra Moreno.
 - Rouillon Haro, Favio
 - Villanueva Aguirre, Cesar Alexander
 
-## Estructura del repositorio
-
-proyecto-bi-FISIMart/
-├── README.md              # Descripción, integrantes, cómo ejecutar
-├── requirements.txt       # Dependencias de Python (versiones)
-├── data/
-│   ├── raw/                # Datos sintéticos crudos (con problemas de calidad)
-│   └── processed/          # Datos limpios listos para análisis y Power BI
-├── notebooks/
-│   ├── 00_generacion_datos.ipynb   # Generación reproducible de datos sintéticos
-│   ├── 01_datamart_etl.ipynb       # Parte 1: ETL y modelo dimensional
-│   ├── 02_visualizacion.ipynb      # Parte 2: visualizaciones en Python
-│   ├── 03_clasificacion.ipynb      # Parte 3: clasificación (churn)
-│   ├── 04_segmentacion.ipynb       # Parte 4: segmentación RFM
-│   ├── 05_asociacion.ipynb         # Parte 5: reglas de asociación
-│   └── 06_regresion.ipynb          # Parte 6: regresión / pronóstico
-├── powerbi/
-│   └── FISIMart.pbix       # Modelo, medidas DAX y tableros
-├── prompts/
-│   └── registro_prompts.md # Bitácora de prompts (Anexo A y B)
-├── informe/
-│   └── Informe_PG_FISIMart.pdf   # Informe consolidado
-├── reports/
-│   └── figures/             # Gráficos exportados para el informe
-└── exposición/
-    ├── enlace_video.txt
-    └── orden_participacion.txt
-
 ## Cómo ejecutar el proyecto
 
 1. **Requisitos previos**: Python 3.12 (los notebooks fueron guardados y probados con
