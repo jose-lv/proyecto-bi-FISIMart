@@ -34,7 +34,7 @@ Docente: Mg. Juan Gamarra Moreno.
 ```
 
 4. **Ejecutar los notebooks en orden**, desde `notebooks/`, con Jupyter Notebook,
-   JupyterLab o VS Code:
+   JupyterLab, Google Colab o VS Code:
 
 ```bash
    jupyter lab
